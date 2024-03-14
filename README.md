@@ -4,7 +4,8 @@ This is a Node.js module designed to facilitate currency conversion. It provides
 
 #Installation
 
-Either through cloning with git or by using npm (the recommended way):
+Either through cloning with git or by using npm (the recommended way)
+
 `npm install -g tabish-currency-converter`
 
 ## Import
